@@ -119,7 +119,7 @@ section {
 
 body {
     width: 960px;
-    background: linear-gradient(#ff1414, #f70404, #f70404) no-repeat;
+    background: linear-gradient(#ff1414, white) no-repeat;
     margin: 0 auto;
     font-family: "Maven Pro", arial, helvetica, sans-serif;
     font-weight: 400;
